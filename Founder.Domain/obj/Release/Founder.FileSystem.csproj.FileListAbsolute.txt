@@ -1,0 +1,4 @@
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Domain\bin\Release\TotalBrowse.Domain.dll
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Domain\bin\Release\TotalBrowse.Domain.pdb
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Domain\obj\Release\TotalBrowse.Domain.dll
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Domain\obj\Release\TotalBrowse.Domain.pdb

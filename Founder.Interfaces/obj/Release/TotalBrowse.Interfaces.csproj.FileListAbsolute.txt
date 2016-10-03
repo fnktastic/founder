@@ -1,0 +1,14 @@
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.csprojResolveAssemblyReference.cache
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Interfaces.dll
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Interfaces.pdb
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Domain.dll
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Domain.pdb
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.dll
+D:\projekts\TotalBrowse\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.pdb
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Interfaces.dll
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Interfaces.pdb
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Domain.dll
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\bin\Release\TotalBrowse.Domain.pdb
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.dll
+C:\Users\fnkta\Desktop\TotalBrowse-master\TotalBrowse.Interfaces\obj\Release\TotalBrowse.Interfaces.pdb
