@@ -290,15 +290,15 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Founder.BLL\Founder.Applied.csproj">
+    <ProjectReference Include="..\Founder.Applied\Founder.Applied.csproj">
       <Project>{af8a1891-23d7-4acb-819f-93869128c6a9}</Project>
       <Name>Founder.Applied</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Founder.Domain\Founder.FileSystem.csproj">
+    <ProjectReference Include="..\Founder.FileSystem\Founder.FileSystem.csproj">
       <Project>{2fbe9ea5-5b63-4a7c-bc76-5cb7f86cf36b}</Project>
       <Name>Founder.FileSystem</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Founder.Interfaces\Founder.Interface.csproj">
+    <ProjectReference Include="..\Founder.Interface\Founder.Interface.csproj">
       <Project>{0b6849cc-19a7-475e-8d3e-5a49706f2506}</Project>
       <Name>Founder.Interface</Name>
     </ProjectReference>
